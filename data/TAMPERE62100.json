@@ -1,0 +1,6586 @@
+[
+  {
+    "businessId": "0289214-5",
+    "name": "Vertex Systems Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "VAAJAKATU 9",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "0429812-3",
+    "name": "Prodycon Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "NÄSILINNANKATU 22 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "0469333-4",
+    "name": "Finnpos Services Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Patamäenkatu 7",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "0491074-9",
+    "name": "Physiotools Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kehräsaari B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "0576441-3",
+    "name": "Intrinsic Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kauppakatu 3 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "0582821-0",
+    "name": "Insinööritoimisto Tammercad Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "SAMMONKATU 30 D",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "0599775-1",
+    "name": "DB-Manager Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 8 D",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "0610578-6",
+    "name": "Data Enterprise Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Federleynkatu 7 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "0623797-3",
+    "name": "SQ Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Runeberginkatu 4 A",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "0626794-5",
+    "name": "Tampereen Liikennelaite Ky",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "KÄPYTIE 6",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "0662697-9",
+    "name": "Zappa Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Puutarhakatu 2 B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "0663913-9",
+    "name": "Probyte Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Veisunkatu 17",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "0686200-7",
+    "name": "M-Files Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 34 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "0688893-6",
+    "name": "Medigit Oy, insinööritoimisto",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "LAALAHDENKATU 7 B",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "0709323-8",
+    "name": "Kielisoft IT Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "PILOTINKATU 24",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "0722366-1",
+    "name": "J&K International Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pispalan valtatie 133",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "0722564-0",
+    "name": "Heikki Mattsson Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "MEIRAMIKATU 9",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "0734590-9",
+    "name": "Visual computing Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Opiskelijankatu 37 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "0747390-0",
+    "name": "Zenitron Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Horisontti 2 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "0751338-6",
+    "name": "Joiner Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 19 H",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "0767615-0",
+    "name": "Clinibit Systems Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Savikukonkatu 7",
+    "postCode": "33530"
+  },
+  {
+    "businessId": "0790916-1",
+    "name": "Joinex Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyhäjärvenkatu 5 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "0791958-9",
+    "name": "Suomen Tietotupa Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "ISÄNNÄNKATU 6",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "0796425-9",
+    "name": "Dapop Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "SIILINKARINKATU 30",
+    "postCode": "33410"
+  },
+  {
+    "businessId": "0836500-4",
+    "name": "Teho-Data Ky",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Jänislahdenkatu 6 E",
+    "postCode": "33410"
+  },
+  {
+    "businessId": "0847482-5",
+    "name": "Viitalaco Ky",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Riihipellonkatu 24 A",
+    "postCode": "33530"
+  },
+  {
+    "businessId": "0857718-9",
+    "name": "Alttaani Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kukkolankatu 32",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "0862533-9",
+    "name": "OS-Service Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Biokatu 12",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "0877570-8",
+    "name": "CrossControl Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 21",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "0878012-8",
+    "name": "Sesos Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään puistokuja 25 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "0880993-9",
+    "name": "Lasse ja Aune Jutila Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ojustenkatu 11 A",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "0886510-5",
+    "name": "Inlan Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "TAIPALEENTIE 11",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "0890675-5",
+    "name": "Softsys Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": null,
+    "street": "Kornetintie 3",
+    "postCode": "00380"
+  },
+  {
+    "businessId": "0896941-4",
+    "name": "Mech-Soft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33201"
+  },
+  {
+    "businessId": "0897662-2",
+    "name": "Enersoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 6-8",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "0911502-3",
+    "name": "Corundo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "NIRVAKUUSENKUJA 3 D",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "0912642-7",
+    "name": "SOT Oy Suomen Ohjelmistotyö Ab",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Levonmäenkatu 29 A",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "0919212-5",
+    "name": "Porin Konttorituotanto Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Liittokallionkatu 11 C",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "0932696-3",
+    "name": "P&K Development Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenpuisto 35 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "0939362-1",
+    "name": "Software Vision Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tieteenkatu 6 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "0964613-1",
+    "name": "Mobisoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kauppakatu 2 C",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "0973971-7",
+    "name": "Visy Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään valtatie 34 D",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "0994116-5",
+    "name": "SC-Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lumikonkatu 7",
+    "postCode": "33530"
+  },
+  {
+    "businessId": "1019918-0",
+    "name": "Abako Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkatu 5",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "1030547-3",
+    "name": "Deltabit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lastaajankatu 5",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "1033996-4",
+    "name": "Vilkas Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Näsilinnankatu 27 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "1059087-6",
+    "name": "Eduix Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 17 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "1069448-0",
+    "name": "Entteri Professional Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 41",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "1079997-9",
+    "name": "Millarte Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satamakatu 7 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "1087535-3",
+    "name": "Firstbyte Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenpuisto 14 D",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "1091386-6",
+    "name": "Arkkivoltti avoin yhtiö",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 11 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1093864-1",
+    "name": "Combitech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1094426-7",
+    "name": "Kassone Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Palomäentie 14 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "1096321-4",
+    "name": "Media Gallery Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "KALEVAN PUISTOTIE 17 C",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "1101710-7",
+    "name": "Eskil-Net Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Suvantokatu 1 F",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1444048-8",
+    "name": "Konsultointi Osakeyhtiö Marjamäki",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "KALIMANKUJA 3",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "1452428-6",
+    "name": "Ohjelmistotalo Kompassi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33101"
+  },
+  {
+    "businessId": "1456707-5",
+    "name": "Podosis Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "PELLERVONKATU 12 E",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "1471108-1",
+    "name": "Curiositas Ltd Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nurmenkatu 6 A",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "1473767-9",
+    "name": "Gurux Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1493486-7",
+    "name": "TTTech Flexibilis Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1496941-0",
+    "name": "Eepsoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "KANJONINKATU 11 C",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "1508161-6",
+    "name": "Wild Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lokintaival 13 D",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1513023-8",
+    "name": "Topcon Technology Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33311"
+  },
+  {
+    "businessId": "1518644-2",
+    "name": "IT Vision Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kolarinkatu 9",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "1549546-4",
+    "name": "Kaskensaari Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 63 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "1560693-7",
+    "name": "VV-Soft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sellukatu 5 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "1571997-4",
+    "name": "Atostek Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 3 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "1578626-1",
+    "name": "OPEN POS Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Patamäenkatu 7",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "1579043-9",
+    "name": "Cyber Code Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ilmarinkatu 39 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "1582605-9",
+    "name": "Mindpolis Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Erkkilänkatu 11",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1590283-2",
+    "name": "Itlab Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Messukylänkatu 45",
+    "postCode": "33700"
+  },
+  {
+    "businessId": "1595345-3",
+    "name": "E-Bros Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään valtatie 48",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "1607574-4",
+    "name": "Minutor Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Korkeakoulunkatu 7",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "1610539-2",
+    "name": "Avertes Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sellukatu 5 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "1613775-7",
+    "name": "Sofia Digital Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sumeliuksenkatu 18 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1615150-8",
+    "name": "Toyme Lab Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rautatienkatu 14 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1622082-5",
+    "name": "Arsplan Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "NIRVANKUUSENKUJA 3 D",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "1635990-7",
+    "name": "Celotron Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Yrittäjänkulma 5",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "1702297-8",
+    "name": "Feelback Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "KUOPIO",
+    "street": "Microkatu 1",
+    "postCode": "70210"
+  },
+  {
+    "businessId": "1710128-9",
+    "name": "Gofore Oyj",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 34",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1714864-2",
+    "name": "JP Postman Ky",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Soikkokatu 5",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "1725022-5",
+    "name": "Saarni Learning Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tullikatu 6",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1733902-7",
+    "name": "Remion Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 18 B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "1737546-6",
+    "name": "Winfile Ohjelmistot Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ututie 10",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "1739527-2",
+    "name": "Tustor International Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": null,
+    "street": "Mannerheimintie 12 B",
+    "postCode": "00100"
+  },
+  {
+    "businessId": "1751676-7",
+    "name": "Codeit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Suomalankatu 9",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "1762695-8",
+    "name": "DiCode Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sumeliuksenkatu 18 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1767011-5",
+    "name": "Hartsaco Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satamakatu 17 E",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "1806724-6",
+    "name": "Radiator Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Varastokatu 3 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1835499-0",
+    "name": "JJ - Net Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pinninkatu 21-23 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1836942-0",
+    "name": "Vitec Acute Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11 D",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1844153-3",
+    "name": "Bitwise Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Viinikankatu 1 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1849792-4",
+    "name": "eKansio Ohjelmistot Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pinninkatu 55 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1851100-1",
+    "name": "Tutoring Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satamakatu 17 E",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "1857164-5",
+    "name": "10tons Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 5 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1897384-7",
+    "name": "Labwise Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vuolteenkatu 1",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1904593-8",
+    "name": "Suomen Ratkaisupalvelu Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vuohensillankatu 21",
+    "postCode": "33700"
+  },
+  {
+    "businessId": "1910147-7",
+    "name": "OHJAAMO Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Osuusmyllynkatu 7",
+    "postCode": "33700"
+  },
+  {
+    "businessId": "1923653-1",
+    "name": "Santelo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 21 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "1925753-5",
+    "name": "Codens Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Uimalankatu 1 D",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "1926024-0",
+    "name": "Korahmor Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenpuisto 35 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "1935052-9",
+    "name": "Futural Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "HÄMEENLINNA",
+    "street": "Sibeliuksenkatu 25 B",
+    "postCode": "13100"
+  },
+  {
+    "businessId": "1937630-7",
+    "name": "Wysiwyg Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Eteläpuisto 2 C",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "1942477-8",
+    "name": "Oscar Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Naulakatu 3",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1959786-3",
+    "name": "OptoFidelity Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 1",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "1962915-9",
+    "name": "Codemill Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Näsilinnankatu 17 D",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "1967174-4",
+    "name": "AmpTech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vasaratie 23",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "1985506-8",
+    "name": "Oy Cemron Ab",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Itsenäisyydenkatu 25 lh.",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "1990288-0",
+    "name": "iDiD Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Yliopistonkatu 60 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "1997470-2",
+    "name": "Creavit media osuuskunta",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kyläsepänkatu 17 A",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "2001420-7",
+    "name": "Osuuskunta Daxos",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 8-10",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "2003949-8",
+    "name": "ADALIA OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 6",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2009537-7",
+    "name": "Techila Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33101"
+  },
+  {
+    "businessId": "2039944-2",
+    "name": "Radiant Bytes Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään valtatie 2b A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2041018-9",
+    "name": "Symmetria Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pinninkatu 21-23 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2045664-6",
+    "name": "Cirit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 14 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2074801-6",
+    "name": "Systam Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 6 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2082978-0",
+    "name": "Portal Services Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 31",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2084087-5",
+    "name": "Netproce Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2087059-9",
+    "name": "SALMILLA OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Unholankatu 17",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2097523-5",
+    "name": "SEM Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "F.E. Sillanpään katu 2 A",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "2099088-1",
+    "name": "Gemilo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Verstaankatu 5 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2113034-9",
+    "name": "Vincit Oyj",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ratinankuja 1",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2119271-8",
+    "name": "MeshWorks Wireless Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään Valtatie 48",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2127177-4",
+    "name": "Samiweb Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33101"
+  },
+  {
+    "businessId": "2153505-5",
+    "name": "HurWe Systems Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Makkarajärvenkatu 72 C",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2163580-6",
+    "name": "Zoneatlas Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hallituskatu 23",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2167477-6",
+    "name": "Comia Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rautatienkatu 26 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2174287-1",
+    "name": "Puolimatka Services Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Eerolansuorantie 88",
+    "postCode": "33680"
+  },
+  {
+    "businessId": "2177774-0",
+    "name": "Vitec Roidu Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11 D",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2185196-3",
+    "name": "Underal Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pättiniemenkatu 3b",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "2207730-8",
+    "name": "Hansaroyal Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tuomiokirkonkatu 21",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2239038-8",
+    "name": "Vitec Codea Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 15 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2240985-1",
+    "name": "Pispalan Insinööritoimisto Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pohjolankatu 29 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "2254356-7",
+    "name": "Restate Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pispalan Valtatie 15 C",
+    "postCode": "33250"
+  },
+  {
+    "businessId": "2257277-1",
+    "name": "Suomen Varmakauppa Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Korvenkatu 32 C",
+    "postCode": "33300"
+  },
+  {
+    "businessId": "2261299-9",
+    "name": "Vertum Verticals Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Majakkakatu 7",
+    "postCode": "33410"
+  },
+  {
+    "businessId": "2263904-0",
+    "name": "Kyy Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "lielahdenkatu 41 A",
+    "postCode": "33410"
+  },
+  {
+    "businessId": "2269660-0",
+    "name": "Colossal Order Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pellavatehtaankatu 10 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2274135-2",
+    "name": "Datacubist Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 9",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2274667-1",
+    "name": "Celerit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Takamaanrinne 14 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2280835-0",
+    "name": "Minicapital Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tuohikorventie 75",
+    "postCode": "33340"
+  },
+  {
+    "businessId": "2283473-5",
+    "name": "Intoloop Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Papinkatu 21 lh.",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2284984-9",
+    "name": "DropAim Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aarikkalankatu 2 as 4",
+    "postCode": "33530"
+  },
+  {
+    "businessId": "2288164-6",
+    "name": "eSeteli Palveluverkko Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tampellan esplanadi 8 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2288789-6",
+    "name": "Spea Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33101"
+  },
+  {
+    "businessId": "2291841-0",
+    "name": "Enermix Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 21 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2297933-6",
+    "name": "Kiinteistöapuri Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tanhuankatu 23 A",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "2302134-9",
+    "name": "DFCBIT Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 25 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2304284-4",
+    "name": "IGL-Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Korkeakoulunkatu 7",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2307578-5",
+    "name": "Nimble IDM Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Piettasenkatu 32 G",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2309629-5",
+    "name": "FlowBrainer Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään valtatie 24",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2309784-5",
+    "name": "Astrofy Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuoppamäentie 3 A",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "2315151-4",
+    "name": "Starglecom Oy Ltd",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyynikintie 25 Y",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "2316622-2",
+    "name": "Osaamisydin Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33101"
+  },
+  {
+    "businessId": "2324740-1",
+    "name": "Haltu Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Verstaankatu 1",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2332618-5",
+    "name": "Newelo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 10 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2343570-1",
+    "name": "Apex Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kauppakatu 3 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2350271-6",
+    "name": "Prank Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rautatienkatu 7 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2361589-2",
+    "name": "Qentinel Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Polvikatu 2 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2370475-6",
+    "name": "BeiZ Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2374203-1",
+    "name": "Evident Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään valtatie 2 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2377113-1",
+    "name": "Solmio-kassa Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Postitorvenkatu 16",
+    "postCode": "33840"
+  },
+  {
+    "businessId": "2383811-3",
+    "name": "Noiseless Imaging Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2384333-4",
+    "name": "Gofore Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 34",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2384930-6",
+    "name": "Effido Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pohjolankatu 10 B",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "2386036-1",
+    "name": "ProTieto FI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Papinkatu 21 F",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2388062-9",
+    "name": "Denovo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tohlopinranta 31",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "2406872-0",
+    "name": "Tietotekniikan TKI-osuuskunta, Verstas",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuntokatu 3",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "2421666-6",
+    "name": "Codeo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pakkahuoneenaukio 2",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2428037-7",
+    "name": "Empty Hill Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sorvitie 13",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2428896-9",
+    "name": "OpenLight Factory Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Siltakatu 3 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2429134-0",
+    "name": "Joiner Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 19 H",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "2443888-3",
+    "name": "Hopitech oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Muinaishaudankatu 10 D",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2447556-1",
+    "name": "North Sixty-One Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ratinankatu 5 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2448996-3",
+    "name": "KnowUrBiz Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sorinkatu 4 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2460330-8",
+    "name": "Conifer Productions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kumputie 2 D",
+    "postCode": "33530"
+  },
+  {
+    "businessId": "2460447-4",
+    "name": "Inviago Osakeyhtiö",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Simolankatu 6",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "2465961-9",
+    "name": "Nordic Inertial Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2467075-4",
+    "name": "Staaki oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vainiokatu 1",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "2468405-6",
+    "name": "Holiday Experience Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lintuviidankatu 14",
+    "postCode": "33340"
+  },
+  {
+    "businessId": "2474059-9",
+    "name": "Padio Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 10 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2474752-0",
+    "name": "Necesa Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 19 H",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "2475412-2",
+    "name": "Finnbooster Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Liinakonkatu 10 D",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2478295-9",
+    "name": "Nuvostaq Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kirnukatu 9 A",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2479159-9",
+    "name": "Extensive Life Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sarvijaakonkatu 9 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "2482476-8",
+    "name": "Loikka Design Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 21 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2484709-7",
+    "name": "Weaselbat Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kärkikuja 3 as.",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2486495-4",
+    "name": "Wronghut Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sorvitie 10b",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2487226-8",
+    "name": "eTasku Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2488542-1",
+    "name": "AvaiLean Premium Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Laulunmaankatu 14 B",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "2490606-9",
+    "name": "Painava sana Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vastakatu 18",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2491717-1",
+    "name": "Tagmania Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Portaankorvankatu 5",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2496883-3",
+    "name": "Trestima Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Solkimäenkatu 29",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2499106-4",
+    "name": "Piceasoft OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkatu 5",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2504471-2",
+    "name": "Midnight Forge Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Uittotunnelinkatu 8 C",
+    "postCode": "33250"
+  },
+  {
+    "businessId": "2507560-7",
+    "name": "PalveluPisara Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Riihipellonkatu 24",
+    "postCode": "33530"
+  },
+  {
+    "businessId": "2512008-4",
+    "name": "Siituli Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 32 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2514063-2",
+    "name": "Valo Interactive Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Melakatu 2 C",
+    "postCode": "33410"
+  },
+  {
+    "businessId": "2514765-8",
+    "name": "Vizpoint Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sirppitie 7",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2516632-2",
+    "name": "CoreHW Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 1",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2522040-5",
+    "name": "Effido Designs Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pohjolankatu 10 B",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "2522905-5",
+    "name": "Cometa Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 6",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2527035-7",
+    "name": "Frostwoods Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Varvikonkatu 1 C",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2527516-6",
+    "name": "Marketing Desk Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Yliopistonkatu 39 D",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "2531367-9",
+    "name": "Elisa Industriq Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2540117-7",
+    "name": "PT-Data Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kallioisenkatu 2a",
+    "postCode": "33530"
+  },
+  {
+    "businessId": "2543239-5",
+    "name": "Solkimedia Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lepolantie 17",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2550558-2",
+    "name": "iGrandDesigns Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Järvikatu 8-10 L",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2550800-3",
+    "name": "Tuomas Pirttijoki Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Härkälänmäenkatu 3",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2552346-5",
+    "name": "E12 Capital Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyhäjärvenkatu 5 C",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2556765-2",
+    "name": "Illegal Alien Studios Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hallituskatu 15 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2560805-5",
+    "name": "PHP Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tikkukuja 1 A",
+    "postCode": "33250"
+  },
+  {
+    "businessId": "2571844-9",
+    "name": "Epic Invoicing Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Verstaankatu 4",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2573242-7",
+    "name": "Susten Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rautiolanrinne 5 B",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2573977-6",
+    "name": "Visio247 Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33101"
+  },
+  {
+    "businessId": "2580601-9",
+    "name": "S. Merilä Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Velholehdenkatu 10",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2590413-7",
+    "name": "REALIN Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Yliopistonkatu 58 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2592959-6",
+    "name": "MakeGo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vestonkatu 43",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2597358-9",
+    "name": "Oy FRAK Ltd",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyhäjärvenkatu 5 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2606155-7",
+    "name": "Sensotrend Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Biokatu 12",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "2606950-8",
+    "name": "Smartvisio Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpäänkatu 15",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2608537-2",
+    "name": "Accounteq Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lumpeenkatu 8 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2611429-2",
+    "name": "Effect IT Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kiplinginkuja 1",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2614481-1",
+    "name": "Vektorio Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2617007-5",
+    "name": "Crosshill Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Biokatu 10",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "2619009-2",
+    "name": "Healthfactory Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sarankulmankatu 12b A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2619055-1",
+    "name": "Headsted Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vesakonkatu 1 E",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2629977-6",
+    "name": "Lemanse Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kolmionkatu 5 D",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2632366-8",
+    "name": "Kanava Tietopalvelut oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kalevan puistotie 24 lt.",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "2636398-5",
+    "name": "Devea Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 3",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2637332-3",
+    "name": "Skydome Entertainment Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Väinö Linnan Aukio 15",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2637551-3",
+    "name": "eSend Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Possijärvenkatu 1",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "2642956-9",
+    "name": "stemGO Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Näsilinnankatu 48 E",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2648752-3",
+    "name": "PhysioBit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Keernakatu 1 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2653442-2",
+    "name": "Think Tone Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ahlmanintie 44",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "2653846-6",
+    "name": "Novia Paikannus Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ahlmanintie 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2656208-7",
+    "name": "VIACCESS-ORCA FINLAND Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 25 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2656910-7",
+    "name": "Edenspace Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aleksanterinkatu 20 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2657088-8",
+    "name": "Greener Grass Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Väinö Linnan aukio 15",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2657120-7",
+    "name": "StormCloud Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rintamäenkatu 29 F",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2657825-7",
+    "name": "Bitartic oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Riippakatu 21",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2658593-2",
+    "name": "Yavia Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mettonkatu 32",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2659960-5",
+    "name": "HAB-NL Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Varalankatu 8 as.",
+    "postCode": "33240"
+  },
+  {
+    "businessId": "2660036-2",
+    "name": "Mediamaisteri Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Erkkilänkatu 11",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2663826-4",
+    "name": "Sekho Brothers Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rosmariininkatu 8",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2679827-6",
+    "name": "Buildie Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkatu 2",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2686489-4",
+    "name": "Confliges Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Louhikonkatu 3",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2686682-2",
+    "name": "Pianorobot Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Länkiniitynkatu 16",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2689154-2",
+    "name": "dripgrind Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 12 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2690874-6",
+    "name": "Osumia Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Koukkurannankatu 13 B",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2693913-9",
+    "name": "Bithouse Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hautalankatu 20",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "2697162-2",
+    "name": "Tailbytes Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenpuisto 27b A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2702944-4",
+    "name": "Dreamloop Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Yliopistonkatu 58 D",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2707316-2",
+    "name": "Vau Company Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ahlmanintie 44",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "2708196-3",
+    "name": "Valtavia Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään valtatie 24",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2712284-1",
+    "name": "Neuro Event Labs Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Biokatu 10",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "2723792-1",
+    "name": "Exafore Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 6-8 D",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2729355-2",
+    "name": "Steamlane Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rintamäenkatu 28 B",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2729608-3",
+    "name": "Subtle Insights Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Frans Emilin katu 1 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2746638-8",
+    "name": "Sujuvat ratkaisut Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Suopursunkatu 10 A",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2748349-5",
+    "name": "Panimo Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haukkamäenkatu 4 A",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "2753926-8",
+    "name": "Eracon Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pekankatu 24",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "2754118-1",
+    "name": "Sprintaccount Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rautatienkatu 21 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2759727-3",
+    "name": "Amble Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Paasikoskenraitti 2 B",
+    "postCode": "33250"
+  },
+  {
+    "businessId": "2764163-3",
+    "name": "Liveclass finland oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aleksis Kiven katu 24 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2764372-7",
+    "name": "Jcode Software Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pakkahuoneenaukio 2 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2766100-1",
+    "name": "Macho Brothers Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Itsenäisyydenkatu 23",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "2768739-1",
+    "name": "BusPay Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nahkakuja 13 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "2769165-7",
+    "name": "Ventito Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Käpytie 6 B",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "2770285-4",
+    "name": "AgiSol Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pohjankulma 2 B",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "2771536-4",
+    "name": "Axel Health Unitary Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 13 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2779006-5",
+    "name": "ZMartek Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 21 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2780512-4",
+    "name": "Argomens Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Konkolankatu 5 B",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2780865-9",
+    "name": "Sorvimo Optimointipalvelut Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Korkeakoulunkatu 7",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2784536-1",
+    "name": "Piikikäs Toukka Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33201"
+  },
+  {
+    "businessId": "2784755-1",
+    "name": "Treon Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 1",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2788608-3",
+    "name": "Primio Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Takamaanrinne 4 as.",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2789064-8",
+    "name": "Futuriot Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tullikatu 6",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2790134-3",
+    "name": "Hervanta Consulting Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 60 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2796636-6",
+    "name": "Cubitle Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haarlankatu 4 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "2800946-1",
+    "name": "Oispa Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sumeliuksenkatu 18 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2801954-7",
+    "name": "Artest Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kaukajärventörmä 5",
+    "postCode": "33730"
+  },
+  {
+    "businessId": "2803639-8",
+    "name": "Pihlasoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aleksanterinkatu 39 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2803970-8",
+    "name": "OP5 AB, Suomen sivuliike",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kaipasenrinne 3 A",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2806949-9",
+    "name": "FS Managerit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuokkamaantie 4 A",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "2807415-9",
+    "name": "Koresoft Osk",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Frans Emilin katu 24 D",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2810190-3",
+    "name": "Codejam Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Messukylänkatu 29a A",
+    "postCode": "33700"
+  },
+  {
+    "businessId": "2813036-8",
+    "name": "4mob games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sorvitie 13",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2816685-4",
+    "name": "Sports Intelligence Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Possijärvenkatu 3",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "2820712-6",
+    "name": "Hunchback Studio avoin yhtiö",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 59 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2822758-1",
+    "name": "The Rudolf Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2827897-9",
+    "name": "SMARTmedi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Biokatu 6 L",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "2833939-9",
+    "name": "Vaisto Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 1",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2834505-1",
+    "name": "everynet Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään Valtatie 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2834561-7",
+    "name": "Hologram Monster Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Väinö Linnan aukio 15",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2834613-4",
+    "name": "Visumo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2836343-6",
+    "name": "Long Int",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ranta-Tampellan katu 5 B",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "2837706-1",
+    "name": "Oy Naveex Ab",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Niilo Härmälän Katu 13 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2838362-1",
+    "name": "Veracell Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 5 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2840282-9",
+    "name": "Tosware Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Säästäjänkuja 4 A",
+    "postCode": "33840"
+  },
+  {
+    "businessId": "2842989-6",
+    "name": "AtoZ Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 17",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2846092-2",
+    "name": "Pelite Productions OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Opiskelijankatu 11 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2848479-9",
+    "name": "Luuptek Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Itsenäisyydenkatu 12 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "2849638-6",
+    "name": "Adoculos Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Simolankatu 15 as.",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "2849647-4",
+    "name": "Lumoin Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pättiniemenkatu 11 C",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "2850066-4",
+    "name": "Portalful Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sorinkatu 4 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2850261-9",
+    "name": "Monad Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään valtatie 24",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2851457-2",
+    "name": "function61.com Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nuutisarankatu 15",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2855719-3",
+    "name": "Nitroyale Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nikinväylä 37 C",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2870295-2",
+    "name": "Minda Labs Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vehnämyllynkatu 6",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "2873092-9",
+    "name": "MaxiPoint Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Yliopistonkatu 58 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2874353-5",
+    "name": "QMClouds Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haarlankatu 4 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "2874607-4",
+    "name": "Asensiot Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kalevantie 2",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2877227-2",
+    "name": "Northfield Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Jukolankatu 9",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "2889596-9",
+    "name": "Frameshift Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2889727-8",
+    "name": "CONSCIENT Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenpuisto 35 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2897597-7",
+    "name": "Jackbot Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ukkospuunkuja 4 F",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2898034-6",
+    "name": "Pinocode Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lastaajankatu 2 A",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "2898565-7",
+    "name": "UNA Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Biokatu 12",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "2898746-8",
+    "name": "Vrom Online Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haarlankatu 4 E",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "2903834-4",
+    "name": "Saltway Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Niinipuunkaari 5",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2905040-7",
+    "name": "Solita Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2906337-1",
+    "name": "Valaa Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Näsilinnankatu 25 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "2908291-9",
+    "name": "Valkohattu Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sarvijaakonkatu 19 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "2914396-1",
+    "name": "Pinovuo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Polunmäenkatu 9 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2917423-1",
+    "name": "Jakso Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sarvijaakonkatu 24 lh.",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "2921379-8",
+    "name": "Softapalvelu Online Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 38",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2923194-5",
+    "name": "Froze Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuninkaankatu 5 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2924234-5",
+    "name": "Phoenix Intelligence Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 25 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2926821-1",
+    "name": "Biopsia Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pilkkakuusenkuja 3 C",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "2928075-5",
+    "name": "Listos Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Siltakatu 14 as.",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2928258-2",
+    "name": "TammerCode Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuultomittarinkatu 18",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2928570-8",
+    "name": "Codebowl Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kossinkatu 3 M",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2929772-5",
+    "name": "Bitonic Systems Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aitolahdentie 34 A",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2929995-8",
+    "name": "Koud Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kalevantie 2",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2930829-5",
+    "name": "Kidesoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kalkkikivikatu 5",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "2937988-6",
+    "name": "Korpisofta Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vispiläkatu 8",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2940087-6",
+    "name": "Seiso Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rannilankatu 6",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "2940893-1",
+    "name": "Mahetsu Innovations OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kivikaarenkatu 15",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "2940988-9",
+    "name": "CloudOnMove Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 4 D",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2942859-6",
+    "name": "Applikatiivinen Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Karikekatu 10",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "2943241-3",
+    "name": "ReceiptHero Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkatu 7",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2943808-1",
+    "name": "OnMore Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lokomonkatu 25 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2947493-9",
+    "name": "Jaroco Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyynikintie 15 A",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "2949357-4",
+    "name": "Friendly Fire Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Valmetinkatu 12 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2949996-8",
+    "name": "okay codes Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kauppakatu 16 C",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "2950802-7",
+    "name": "Loopshore Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 13 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2956376-3",
+    "name": "Solemik Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nikinväylä 37 C",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2960709-2",
+    "name": "Aiso Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 30",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2967564-2",
+    "name": "Edicto Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nuutisarankatu 15",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "2968544-5",
+    "name": "Pelsoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hanhenmäenkatu 1 B",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "2977176-5",
+    "name": "Doctamed Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hussankatu 24 B",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "2977423-7",
+    "name": "Atostek Palvelut Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 3 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2985731-5",
+    "name": "Lapps Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Automiehenkatu 30",
+    "postCode": "33840"
+  },
+  {
+    "businessId": "2986945-5",
+    "name": "Infiniteq Systems Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 6-8 G",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "2987285-7",
+    "name": "Wisehockey Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Viinikankatu 1 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "2993562-7",
+    "name": "Africa Work Power Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Suvialankaari 44 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "2997577-6",
+    "name": "Nomga Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammon valtatie 61",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3000083-7",
+    "name": "Scandit Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 26 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3001278-2",
+    "name": "IT Kovaluu Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nikinkatu 18",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3001371-8",
+    "name": "Blueprinted Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Siltakatu 12 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3004486-4",
+    "name": "Gnomecraft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpäänkatu 13 C",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3007480-1",
+    "name": "Arcticode Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Meesakatu 8 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3010088-9",
+    "name": "Kimmo Factor Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ranta-tampellan katu 17 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3011879-8",
+    "name": "Onnia Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aleksanterinkatu 8 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3012582-4",
+    "name": "Deep Space Studios Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tahmelankatu 6 B",
+    "postCode": "33240"
+  },
+  {
+    "businessId": "3015172-3",
+    "name": "Kaski Venture Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sarvijaakonkatu 24 lt.",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3015771-1",
+    "name": "Oy 4ever Solutions Ab",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 8 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3016221-1",
+    "name": "Hillcode Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Emännänkatu 11",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "3016369-5",
+    "name": "Adjective Animal Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pehkusuonkatu 21 B",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "3017220-9",
+    "name": "Taidokas Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Takamaanrinne 8 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3018645-9",
+    "name": "Nordantia Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lintuhytinkatu 21 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3019326-1",
+    "name": "Gisox Sports Analytics Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lapintie 32 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3020032-9",
+    "name": "Huja Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Teiskontie 11 C",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3020841-9",
+    "name": "PlanetVideo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Väinämöisenkatu 29",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3085800-8",
+    "name": "RoboGen Business Partner Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kullervonkatu 7 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3089216-9",
+    "name": "Leadership as a Service Company Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3091266-8",
+    "name": "LikeyCard Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nalkalankatu 12 F",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3091818-9",
+    "name": "Heusala Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Keskustori 7 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3092499-2",
+    "name": "Tikomo osk",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 51 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3094592-9",
+    "name": "Prifina Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": null,
+    "street": "Kaisaniemenkatu 4 A",
+    "postCode": "00100"
+  },
+  {
+    "businessId": "3095569-2",
+    "name": "Tensoritulo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Karvolankatu 11 B",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3097817-3",
+    "name": "Cumbersoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ylisenkatu 3 D",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3098364-2",
+    "name": "Deviant Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vanhansillankatu 8 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3101256-5",
+    "name": "FORTUNE RAID OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nahkatehtaankatu 9 E",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3102180-8",
+    "name": "Hakulinen Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mikkolankatu 5",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3102660-9",
+    "name": "Resuso Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpäänkatu 9 B",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3104079-3",
+    "name": "Vuosoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Itsenäisyydenkatu 7-9 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3104306-2",
+    "name": "VT Autoviewtech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tuomiokirkonkatu 3 E",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3108243-2",
+    "name": "Alfa Digitalization Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tamppikuja 1 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3108459-3",
+    "name": "TasTech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Jäkäläkatu 55 D",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "3112694-1",
+    "name": "Adopteri Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sellukatu 5 B",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3118139-3",
+    "name": "Absolute Dev Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Koelaitoksenkatu 2 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3119009-7",
+    "name": "HO Ventures Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Majurinkatu 12",
+    "postCode": "33300"
+  },
+  {
+    "businessId": "3120191-3",
+    "name": "Supercollider Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Alaniemenkatu 10 C",
+    "postCode": "33300"
+  },
+  {
+    "businessId": "3120217-4",
+    "name": "Kumara Coding Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 26 B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3121370-3",
+    "name": "Olli Kortelahti Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kyttälänkatu 1",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3122057-5",
+    "name": "KeloTwin Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Häränsilmänkatu 5 E",
+    "postCode": "33300"
+  },
+  {
+    "businessId": "3122235-1",
+    "name": "HealthBase Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ranta-Tampellan katu 15 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3124474-5",
+    "name": "Finish Vision Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ojustenkatu 9 B",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3126782-4",
+    "name": "Boom Corp Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kartanonkatu 2 G",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "3127827-5",
+    "name": "WBCnet Ky",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Juvankatu 56 A",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3129543-8",
+    "name": "Nabrok Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mariankatu 32 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3129924-4",
+    "name": "Devolution Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Turjankatu 1 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3130369-6",
+    "name": "PilvIT Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haarlankatu 4 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3130510-6",
+    "name": "Citynomadi Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuninkaankatu 15 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3130982-8",
+    "name": "Open sense Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lamminkankaantie 8 B",
+    "postCode": "33420"
+  },
+  {
+    "businessId": "3132616-9",
+    "name": "Kasvu Labs Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aukustinkuja 13",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3132695-1",
+    "name": "eSolutions Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vehmaistenkatu 8",
+    "postCode": "33730"
+  },
+  {
+    "businessId": "3135536-5",
+    "name": "NapNap Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Jalmari Finnen katu 18",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3138003-4",
+    "name": "Aviela Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3138402-7",
+    "name": "Betamies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ojakatu 4 G",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3143746-7",
+    "name": "Aatospaja Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Karjakontie 9 C",
+    "postCode": "33340"
+  },
+  {
+    "businessId": "3146499-1",
+    "name": "Tammersoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Niemenrannanaukio 1 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3147870-1",
+    "name": "Bow Stream Visions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vuoreksen Puistokatu 81 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3147908-5",
+    "name": "Porista Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Puolukkakatu 5 A",
+    "postCode": "33310"
+  },
+  {
+    "businessId": "3149858-5",
+    "name": "Hypercat Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 66 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3150748-8",
+    "name": "Mahti Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vähäniemenkatu 11",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3154928-2",
+    "name": "Pragmiq Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ruovedenkatu 20 C",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3156007-8",
+    "name": "CoreSeer Company Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 21 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3160047-1",
+    "name": "Fonsia Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ruismäenkatu 3",
+    "postCode": "33340"
+  },
+  {
+    "businessId": "3161656-1",
+    "name": "Engiware Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Eero Roineen katu 5",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3162710-5",
+    "name": "Agile Pursuit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Salhojankatu 25 C",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3162843-1",
+    "name": "Selin-IT Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Soinilankatu 30 F",
+    "postCode": "33730"
+  },
+  {
+    "businessId": "3163266-8",
+    "name": "AI Marketing Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkatu 7",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3164075-6",
+    "name": "Vinlius Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Iidesaukio 3",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3165147-1",
+    "name": "Utupuro Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33101"
+  },
+  {
+    "businessId": "3168016-8",
+    "name": "Ronsam Digital Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Salhojankatu 42",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3168527-6",
+    "name": "WATCHMYDC ANALYTICS OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tarjanteenkatu 3a A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3170555-6",
+    "name": "TELUS International AI Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 1",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3180370-3",
+    "name": "AI Commerce Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ranta-Tampellan katu 17 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3182561-1",
+    "name": "Minerva Tech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Puutarhakatu 31 B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3183560-9",
+    "name": "Bitenger Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Toispuolisenkatu 9",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3183907-9",
+    "name": "Code Well Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 5 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3184309-4",
+    "name": "Nighthouse Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tammelan puistokatu 17 B",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3185539-4",
+    "name": "Git Gud Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 43 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3185601-2",
+    "name": "Productive Software Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sikosuonkatu 2 I",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3187401-8",
+    "name": "Cloudbro Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Listakatu 9 C",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3188167-2",
+    "name": "Top Notch Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 4",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3189602-2",
+    "name": "Dimensio Design Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rantatie 17 A",
+    "postCode": "33250"
+  },
+  {
+    "businessId": "3192344-9",
+    "name": "Duringwork Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Leppämäenkuja 6",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3193177-2",
+    "name": "Functor Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mariankatu 28 A",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3194129-2",
+    "name": "Pineware Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "KANGASALA",
+    "street": "Lentolantie 34 A",
+    "postCode": "36220"
+  },
+  {
+    "businessId": "3195174-9",
+    "name": "Navis Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Korkeakoulunkatu 7",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3195756-9",
+    "name": "Aplika Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 13 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3196780-4",
+    "name": "Casa Creativa Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tohtorinkatu 10",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3198653-8",
+    "name": "Rinki Entertainment Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tornimäenkatu 9 C",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3200653-8",
+    "name": "Dextrous Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ruovedenkatu 9 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3202377-6",
+    "name": "Moonbased Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Maamiehentie 22",
+    "postCode": "33340"
+  },
+  {
+    "businessId": "3203261-3",
+    "name": "Giant Moose Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuntokatu 11 B",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "3205644-7",
+    "name": "Karhu Software oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Makkarajärvenkatu 72",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3208280-5",
+    "name": "Lingoes Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Santalahdentie 16 C",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3214431-6",
+    "name": "Studio Semitorus Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ilvestie 19",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3216548-3",
+    "name": "Saarni HRX Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tullikatu 6",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3217987-7",
+    "name": "Mielonen Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Muurahaisenkatu 12 B",
+    "postCode": "33610"
+  },
+  {
+    "businessId": "3220772-7",
+    "name": "OBS Solutions Nordic Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": null,
+    "street": "Mannerheimintie 109",
+    "postCode": "00280"
+  },
+  {
+    "businessId": "3220795-4",
+    "name": "Champions Corner Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Erkkilänkatu 11 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3222745-3",
+    "name": "DS Taito Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ranta-Tampellan Katu 19 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3222861-6",
+    "name": "Radarctic OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "mekaniikanpolku 6 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3224839-3",
+    "name": "GGWP Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ruskontie 6 D",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3228619-7",
+    "name": "Kovalainen Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kyttälänkatu 1",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3231958-5",
+    "name": "TjäderLaw Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Viinikankatu 1 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3232360-5",
+    "name": "Vilsepi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tieteenkatu 6 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3233162-1",
+    "name": "Advante Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pohjolankatu 10 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3233201-8",
+    "name": "Mony Mony Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rautatienkatu 2 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3233421-6",
+    "name": "OneDragon Family Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tervaskatu 4 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3235241-4",
+    "name": "Quanscient Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 34 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3235498-9",
+    "name": "Pretty Good Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Persiljakatu 5",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3235844-5",
+    "name": "Otterside Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Virrenkatu 5 B",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3237473-6",
+    "name": "Seiri Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rannilankatu 6",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3238162-9",
+    "name": "No Roof Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Näyttelijänkatu 27 G",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3238392-3",
+    "name": "Soseilu Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hennerinkatu 17 A",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3239133-3",
+    "name": "Craftmate Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Itsenäisyydenkatu 3 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3239822-8",
+    "name": "Technomage Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mustanlahdenkatu 14 B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3240303-1",
+    "name": "Lerneca Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pohjolankatu 10 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3242499-1",
+    "name": "Strange Coil Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Palvaanniemenkatu 7 E",
+    "postCode": "33700"
+  },
+  {
+    "businessId": "3242644-4",
+    "name": "Amabit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kivilevontie 11 A",
+    "postCode": "33420"
+  },
+  {
+    "businessId": "3247759-1",
+    "name": "Taskit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tohlopinranta 10",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3255238-7",
+    "name": "One Trick Entertainment Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lindforsinkatu 19 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3255992-5",
+    "name": "Innotroni Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kelohongankatu 3 C",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "3256118-7",
+    "name": "Twisting Bytes Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vuohenhiekankatu 7 D",
+    "postCode": "33700"
+  },
+  {
+    "businessId": "3258021-4",
+    "name": "Koivanen Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Viinikankatu 1 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3258076-7",
+    "name": "Adventure Toe Studios Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vainiokatu 4 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3258653-6",
+    "name": "MMMPAT Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Epilänkatu 31a",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3259976-7",
+    "name": "Krosswise Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 34 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3261677-4",
+    "name": "Arcticbyte Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kaukajärventörmä 4e",
+    "postCode": "33730"
+  },
+  {
+    "businessId": "3262341-3",
+    "name": "ArtXperience Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Näsilinnankatu 27",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3262382-7",
+    "name": "Mäkinen Software Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Jenseninkatu 39 B",
+    "postCode": "33610"
+  },
+  {
+    "businessId": "3263743-6",
+    "name": "Makea Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3265118-2",
+    "name": "Upset Creations Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mustanlahdenkatu 14 B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3265707-4",
+    "name": "Softlandia Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pellavatehtaankatu 10 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3266041-7",
+    "name": "Linear Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ruopionkatu 10 B",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3266845-1",
+    "name": "Tribo Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Laulunmaankatu 14 B",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3268030-3",
+    "name": "Frostly Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sarvijaakonkatu 32",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3269089-4",
+    "name": "Infusa Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kalevan puistotie 16 C",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3269214-4",
+    "name": "Unicorn as a Service Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sandberginpolku 3 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3269557-2",
+    "name": "Jevli Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mehtosenkaari 19",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3271205-3",
+    "name": "JM Software Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Järvensivuntie 17 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3273259-9",
+    "name": "61N Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 34 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3274115-3",
+    "name": "Grohner Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tapulinkatu 20",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3279180-4",
+    "name": "Tricksuite Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Väinämöisenkatu 21 C",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3279543-4",
+    "name": "Ocon Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Puuvillatehtaankatu 4 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3280928-5",
+    "name": "Lenio Services Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tuluskatu 14 A",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3282513-8",
+    "name": "Meedle Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 60 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3282853-1",
+    "name": "Sulp Suniim Allon Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33101"
+  },
+  {
+    "businessId": "3284210-6",
+    "name": "Bonobo Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sarvijaakonkatu 32 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3284682-8",
+    "name": "Shiftly Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Jäähallinkaari 8 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3285260-3",
+    "name": "Cveler Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kokinpellonraitti 1 D",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3286272-1",
+    "name": "JAANAMOI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Keskisenkatu 16 A",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3286407-3",
+    "name": "Codeax Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuokkamaantie 4 A",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3288655-5",
+    "name": "Majestic Tea Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Opiskelijankatu 11 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3291087-7",
+    "name": "Devient Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Simolankatu 25l",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3292383-8",
+    "name": "ERSoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rusthollinrinne 2",
+    "postCode": "33610"
+  },
+  {
+    "businessId": "3300320-8",
+    "name": "Pyry Rouvila Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tammelankatu 20 B",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3301329-7",
+    "name": "Noitasumma Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Näyttelijänkatu 29",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3301739-4",
+    "name": "Systemagic Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33711"
+  },
+  {
+    "businessId": "3301954-1",
+    "name": "Joinplay Games Studios Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3303012-6",
+    "name": "Noilea Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Laulunmaankatu 16 B",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3304258-1",
+    "name": "Ituni Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Verkatehtaankatu 5 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3305308-8",
+    "name": "Dawson Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Viinikankatu 1 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3306077-1",
+    "name": "Neatly Production Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lagerlöfinkatu 1 F",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3311493-6",
+    "name": "Lumo Health Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3314501-1",
+    "name": "PolarCode Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pinninkatu 40 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3314802-8",
+    "name": "Endofunctor Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 55 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3315111-2",
+    "name": "Oinride Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tesomajärvenkatu 10 F",
+    "postCode": "33310"
+  },
+  {
+    "businessId": "3316929-1",
+    "name": "Palkkatiimi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 19 H",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3316936-3",
+    "name": "Sustainable Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pellavatehtaankatu 7 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3317355-7",
+    "name": "Bad Owl Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ratakistonkatu 27 E",
+    "postCode": "33300"
+  },
+  {
+    "businessId": "3318396-6",
+    "name": "Power Software oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tumppi 3 D",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3320510-9",
+    "name": "Necto Solution Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tampellan Esplanadi 3 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3320625-9",
+    "name": "Luntek Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Halmeenkatu 4 C",
+    "postCode": "33700"
+  },
+  {
+    "businessId": "3322252-3",
+    "name": "Klaudon Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Niinipuunkaari 8",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3324152-1",
+    "name": "DevePro Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Muulankatu 10",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3324331-6",
+    "name": "GeoPass Company Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 15 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3326341-3",
+    "name": "Symptom Digital Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tanhuankatu 62b",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3326789-5",
+    "name": "Cihan Bebek Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Siltakatu 12 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3327852-7",
+    "name": "Mountainfly Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hedelmäkatu 7 B",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3328198-8",
+    "name": "Creative Burger Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tieteenkatu 12 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3328966-4",
+    "name": "Trie Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Maustekatu 18 C",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3329666-1",
+    "name": "Memerium Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pättiniemenkatu 21",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3330118-4",
+    "name": "Whoever Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3333506-9",
+    "name": "Tanni Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Näsilinnankatu 9 B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3338320-4",
+    "name": "Tuadata Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mäkipäänkatu 32 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3339199-2",
+    "name": "JiiriCode Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33401"
+  },
+  {
+    "businessId": "3339469-1",
+    "name": "Onestack Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33901"
+  },
+  {
+    "businessId": "3343208-8",
+    "name": "Lassi Mäkelä Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sarvijaakonkatu 39 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3343646-8",
+    "name": "CodeFriday Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Antinkatu 8",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3343824-4",
+    "name": "A Coding Platypus Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ukkospuunkuja 9",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3345293-5",
+    "name": "Blue Raven Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pekankatu 17",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3345529-8",
+    "name": "M Training Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3345542-3",
+    "name": "Missione Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Linnankatu 14 C",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3345994-2",
+    "name": "Volue Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 6-8 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3346200-9",
+    "name": "19th Holedings Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pellervonkatu 6 B",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3346982-5",
+    "name": "Collaprime Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aleksanterinkatu 35 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3347903-8",
+    "name": "Invinite Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kehräsaari 1 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3347904-6",
+    "name": "Forge Digital Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 34 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3351169-1",
+    "name": "Lilclo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Leutokuja 2 B",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3352367-6",
+    "name": "Theos Technology Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tervatehtaanraitti 10 lt.",
+    "postCode": "33250"
+  },
+  {
+    "businessId": "3352501-4",
+    "name": "NR Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tervaskatu 4 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3354761-9",
+    "name": "KilpiTek Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkatu 7",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3358253-7",
+    "name": "Kodetrace Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Viinikankatu 1 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3358924-5",
+    "name": "Oktariini Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Arkkitehdinkatu 5 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3359543-4",
+    "name": "Nordic Helios Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vanha Kangasalantie 104",
+    "postCode": "33730"
+  },
+  {
+    "businessId": "3360075-8",
+    "name": "Omega Orionis Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tesomankuja 2 E",
+    "postCode": "33310"
+  },
+  {
+    "businessId": "3360530-5",
+    "name": "Moonglow IT Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Laulunvainionkatu 2 A",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3361893-1",
+    "name": "AkuTech Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lindforsinkatu 8 D",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3362217-2",
+    "name": "Koodivuo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haltiankatu 3",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3362954-2",
+    "name": "Signale Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Leppäkatu 5 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3363169-3",
+    "name": "AI-Priori Global Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 6-8 D",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3363653-1",
+    "name": "Sommoro Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kaitalantie 135",
+    "postCode": "33850"
+  },
+  {
+    "businessId": "3363955-6",
+    "name": "Future Run Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pellavatehtaankatu 19 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3365586-3",
+    "name": "Vaomo oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nikinväylä 1 A",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3366141-1",
+    "name": "Apex Project Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään Valtatie 24",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3366616-7",
+    "name": "Bunny Hop Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Terrinkatu 4",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3367353-5",
+    "name": "Nordics Tech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Elianderinkatu 9 A",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3367521-5",
+    "name": "Showit Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pullerikinahde 4 J",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3367791-5",
+    "name": "Rxions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vilhelminkatu 1 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3368336-2",
+    "name": "Ravine Interactive Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haarlankatu 9 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3370778-2",
+    "name": "ADE Insights Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3374640-7",
+    "name": "Metosin Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 13 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3375080-1",
+    "name": "Robosharing Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3375902-1",
+    "name": "Moovy Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33211"
+  },
+  {
+    "businessId": "3376318-6",
+    "name": "NeduAI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tiiliruukinkatu 11 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3379718-3",
+    "name": "Seafarix Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Polttimonkatu 3",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3381425-4",
+    "name": "Jolla Mobile Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Polttimonkatu 3",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3381700-9",
+    "name": "eTarkastaja Ohjelmistot Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pinninkatu 55 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3382012-8",
+    "name": "Creation Point Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sellerikatu 2 B",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3382203-5",
+    "name": "Entail Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tiaisentie 19 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3383789-4",
+    "name": "Pareto Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 26 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3384621-3",
+    "name": "WebTaiturit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kotipellonkatu 12b as.",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3385013-2",
+    "name": "Quotalogic Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ranta-Tampellan katu 11 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3386030-6",
+    "name": "Hopeful Ventures Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Fontellinpolku 7 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3386671-6",
+    "name": "Automation Aid Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sepänkatu 2 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3386781-5",
+    "name": "xChi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Teräskatu 8 D",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3388678-4",
+    "name": "KS-Tech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Niittäjäntie 3 A",
+    "postCode": "33340"
+  },
+  {
+    "businessId": "3389261-5",
+    "name": "s.pell Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Väinämöisenkatu 15 G",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3390959-5",
+    "name": "Conifer Digital Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Voionmaankatu 75 I",
+    "postCode": "33300"
+  },
+  {
+    "businessId": "3392465-6",
+    "name": "Lakeframe Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuultomittarinkatu 16",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3396824-5",
+    "name": "Digital Delights Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Halkoniemenkatu 5 A",
+    "postCode": "33410"
+  },
+  {
+    "businessId": "3398538-7",
+    "name": "Syne Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Frans Emilin Katu 4 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3403048-6",
+    "name": "Royal Fork Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 26a B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3409713-8",
+    "name": "OTX Digilabs Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kallioisenkatu 31",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3410677-8",
+    "name": "MidCore Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Halkoniemenkatu 5 A",
+    "postCode": "33410"
+  },
+  {
+    "businessId": "3411546-3",
+    "name": "Avatars Intelligence Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kröötinkuja 6",
+    "postCode": "33730"
+  },
+  {
+    "businessId": "3411567-4",
+    "name": "Codease Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lokintaival 8 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3412103-8",
+    "name": "Peanuts Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 7",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3413085-8",
+    "name": "Papa Code Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "NIemenrannan puistokatu 23 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3418187-4",
+    "name": "RenderRays Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Huringinkatu 5 A",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3418683-5",
+    "name": "Torn Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Suvantokatu 1 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3420490-9",
+    "name": "Overjoy Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tammelan Puistokatu 31 B",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3421495-5",
+    "name": "Abdulquadri Mumuney Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Orivedenkatu 8 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3422746-5",
+    "name": "Aspark Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Muotialantie 68 B",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3424321-1",
+    "name": "Kalma Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ristikatu 7 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3426714-1",
+    "name": "Woolning Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lassinlinnankatu 8 C",
+    "postCode": "33610"
+  },
+  {
+    "businessId": "3427000-9",
+    "name": "HMI Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3427060-7",
+    "name": "AIBooks Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 19 C",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3427143-1",
+    "name": "GreenPulse Insights Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Polvikatu 2 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3427841-4",
+    "name": "Taskey Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nivarinkatu 5 A",
+    "postCode": "33610"
+  },
+  {
+    "businessId": "3428209-3",
+    "name": "Technordia Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vanha-juvankatu 2 E",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3428321-3",
+    "name": "Dtypes Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ranta-Tampellan katu 19 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3429171-5",
+    "name": "Raksa Appi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Postikatu 1 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3430793-2",
+    "name": "Refaktori Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyynikintori 4-6 A",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3433984-6",
+    "name": "Scribeit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Alasniitynkatu 4 B",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3434973-7",
+    "name": "milloin.energy Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3435498-2",
+    "name": "Netex Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ratinanranta 8 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3436623-8",
+    "name": "AILAB Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aurinkokuja 5 A",
+    "postCode": "33420"
+  },
+  {
+    "businessId": "3438719-4",
+    "name": "Preempt Systems Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Salhojankatu 25d B",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3439309-2",
+    "name": "Osakasluettelo Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään valtatie 1 L",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3442865-4",
+    "name": "Sinella Isopahkala Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Koelaitoksenkatu 22 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3443287-2",
+    "name": "SparkReceipt Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3444334-4",
+    "name": "Doforme Data Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Järvensivuntie 19 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3444738-8",
+    "name": "River Social Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satamakatu 8 C",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3445010-6",
+    "name": "AZMAT GROUP OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Viirakatu 14",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3448667-8",
+    "name": "JM Code Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lapintie 18 D",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3449254-1",
+    "name": "Venho AI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Polttimonkatu 3",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3450448-5",
+    "name": "Superwider platform Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haarlankatu 8 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3451824-6",
+    "name": "RoSu Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuninkaankatu 19 B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3456608-8",
+    "name": "Jolla Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Polttimonkatu 3",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3458852-7",
+    "name": "Hiilloskorpi Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pinninkatu 30 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3462574-6",
+    "name": "Brillian Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Peltokatu 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3464763-8",
+    "name": "Creatlon Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tiiliruukinkatu 11 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3465139-7",
+    "name": "GG Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vapaa-ajanmaa 5 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3466537-7",
+    "name": "IT Sivonen Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Jokipohjantie 33 F",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3469183-1",
+    "name": "Zentech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Valjakonkatu 9 A",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3469535-7",
+    "name": "Siltakatu Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Siltakatu 8 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3469938-2",
+    "name": "AIKA Intelligence Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tapettikatu 9 A",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3470122-7",
+    "name": "Höpöhöpö Group OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Majurinkatu 12",
+    "postCode": "33300"
+  },
+  {
+    "businessId": "3473630-7",
+    "name": "Valolumi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nekalankulma 5 G",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3474153-6",
+    "name": "Bytecomm Systems Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vilppulanpolku 20 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3478159-7",
+    "name": "IT-Freda ohjelmointi OY AB",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "mattilanmäki 11",
+    "postCode": "33610"
+  },
+  {
+    "businessId": "3479093-6",
+    "name": "Obscurant Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Orivedenkatu 14 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3479110-3",
+    "name": "AI Scholar Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3480830-7",
+    "name": "Hot Soup Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Jäähallinkaari 18 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3481369-1",
+    "name": "Allu.io Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vellamonkatu 22 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3481373-9",
+    "name": "TKL ASIC Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Taunonkatu 14",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3482079-5",
+    "name": "Insectivora Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Nikinväylä 38 C",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3482213-3",
+    "name": "Akvasoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ritakatu 13 G",
+    "postCode": "33530"
+  },
+  {
+    "businessId": "3482474-5",
+    "name": "Task Hire Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Perkiönkatu 68 B",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3482654-8",
+    "name": "Databites Technology Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 66 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3482734-8",
+    "name": "Miselly Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 66 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3482772-7",
+    "name": "Mercialie Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 66 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3482932-7",
+    "name": "Qizzy Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vihilahdenkatu 14 B",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3484310-2",
+    "name": "Sportprint Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyhäjärvenkatu 5 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3486107-9",
+    "name": "PaistiSoftware Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tammelankatu 20 B",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3487021-5",
+    "name": "Soiva Technology Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 14",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3491703-6",
+    "name": "Sportta Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lintulamminrinne 6",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3492191-6",
+    "name": "Viherlinkki Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Siukolankatu 1 E",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3493307-9",
+    "name": "Arka Arts Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tarjanteenkatu 11 C",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3496619-6",
+    "name": "Löyly Interactive Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Arkkitehdinkatu 5 E",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3498026-2",
+    "name": "Leida Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Siltakatu 14 as.",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3502955-9",
+    "name": "Mosartix Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sotkankatu 20 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3508199-8",
+    "name": "Softapankki Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haarlankatu 4 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3514954-2",
+    "name": "Koodikulma Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hallituskatu 21 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3517300-8",
+    "name": "Tilallinen & Tilaton Ohjelmointi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 29 D",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3521294-3",
+    "name": "South Park Holding Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Väinölänkatu 14 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3522415-1",
+    "name": "KotiKajo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hatanpään valtatie 26",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3526010-1",
+    "name": "Nordic Radius Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ruskontie 6 C",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3528591-5",
+    "name": "Master Mind Intelligence Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Itsenäisyydenkatu 3 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3528592-3",
+    "name": "Gold Digger Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Itsenäisyydenkatu 3 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3531653-1",
+    "name": "CodeTrust Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mesiheinänkatu 16",
+    "postCode": "33340"
+  },
+  {
+    "businessId": "3532471-8",
+    "name": "Walhava Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Eerontie 4",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3532812-9",
+    "name": "Dolai Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pinninkatu 40 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3533885-3",
+    "name": "Kaski.ai Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hissikatu 2",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3533984-8",
+    "name": "Digitari Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tampellan Esplanadi 19 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3534426-8",
+    "name": "Kaigen Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 29 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3535111-8",
+    "name": "Kaski Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ruopionkatu 8 B",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3535396-5",
+    "name": "Agronomy Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuntokatu 3 C",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "3538835-9",
+    "name": "Leida Tech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Siltakatu 14 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3540401-3",
+    "name": "Dappal Interactive Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vihilahdenkatu 7 D",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3541167-8",
+    "name": "Provance AI Proptech Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Puuvillatehtaankatu 6 D",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3545435-2",
+    "name": "QEAR Digital Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Raamikatu 15 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3546213-3",
+    "name": "TNB Labs Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tarhurinkatu 12",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3547593-8",
+    "name": "Eldritch Sword Games Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Niilo Härmälän Katu 11 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3547901-5",
+    "name": "Aines AI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3547952-5",
+    "name": "Sharp One oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hipunkuja 8",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3548052-6",
+    "name": "Talent-IT Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mesiheinänkatu 16",
+    "postCode": "33340"
+  },
+  {
+    "businessId": "3549172-7",
+    "name": "Swivl Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ihaistenkuja 4b",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3551331-6",
+    "name": "SkyPillars Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Teekkarinkatu 3 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3552161-5",
+    "name": "Ensintek Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kukkaniitynkatu 4 B",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3552424-2",
+    "name": "Devaajanne Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Järvensivuntie 29",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3552891-3",
+    "name": "TutorSwap Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ritakatu 13",
+    "postCode": "33530"
+  },
+  {
+    "businessId": "3553186-4",
+    "name": "Petsamo Exploration Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aittakatu 6 D",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3553713-1",
+    "name": "Gridence Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tiiliruukinkatu 11 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3554088-3",
+    "name": "Clarivo Services Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33101"
+  },
+  {
+    "businessId": "3559633-4",
+    "name": "MTL Crafts Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vihurinkatu 5 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3559978-9",
+    "name": "Data Unlimited Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Turjankatu 1 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3562302-1",
+    "name": "Ralsoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 11",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3564068-1",
+    "name": "Mauku Research & Development Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kalevan puistotie 15 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3567517-1",
+    "name": "Recrusr Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 15 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3567675-6",
+    "name": "Cloudsolves Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satamakatu 5 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3569883-2",
+    "name": "Dopo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ranta-Tampellan katu 19 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3570273-1",
+    "name": "GitHits Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pellavatehtaankatu 10 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3570481-7",
+    "name": "NDF Autonomy Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aurinkokuja 5 A",
+    "postCode": "33420"
+  },
+  {
+    "businessId": "3571821-5",
+    "name": "JB Interact Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Marmorikatu 39",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3572321-7",
+    "name": "Curie IT Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Meesakatu 8",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3573617-3",
+    "name": "Potenssi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Makkarajärvenkatu 74 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3574200-4",
+    "name": "E-Job OY",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mustanlahdenkatu 21 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3574862-5",
+    "name": "Sealon Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kosselikatu 2",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3574928-1",
+    "name": "Vivonep Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haapalinnankatu 3 A",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3575608-6",
+    "name": "VerdeAI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pättiniemenkatu 22 A",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3576344-6",
+    "name": "Bastion Nordica Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Takamaanrinne 1 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3577725-8",
+    "name": "Milide Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Heinätori 5 A",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3578750-1",
+    "name": "NurMonitor Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenpuisto 1 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3579184-2",
+    "name": "mAImate Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Huhtimäenkatu 5 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3579964-1",
+    "name": "Feels Native Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kyttälänkatu 7 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3580977-4",
+    "name": "Valleytop Communications Finland Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Niemikatu 6-8 A",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3582241-8",
+    "name": "JPW-Ventures Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Koulukatu 13",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3582459-5",
+    "name": "Satsinki Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haarlankatu 4 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3583135-7",
+    "name": "CyberWeave AI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kortelahdenkatu 13 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3583944-7",
+    "name": "Elda Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuntokatu 3 C",
+    "postCode": "33520"
+  },
+  {
+    "businessId": "3586260-4",
+    "name": "NELS Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Raamikatu 13 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3586657-6",
+    "name": "Verstaani Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33401"
+  },
+  {
+    "businessId": "3588084-5",
+    "name": "Thinking Platform Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rautatienkatu 2 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3588556-6",
+    "name": "Civicloud Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pohjolankatu 2 A",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3588983-1",
+    "name": "Sunrise Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pilotinkatu 48",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3589085-9",
+    "name": "Insinööritoimisto Simulainen Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tuomiokirkonkatu 10 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3590126-3",
+    "name": "Asten Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Teiskontie 23 C",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3590191-7",
+    "name": "Irmatech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Meiramikatu 19",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3592284-9",
+    "name": "GemCharge Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mäkikatu 34",
+    "postCode": "33250"
+  },
+  {
+    "businessId": "3592623-3",
+    "name": "Avenida Management Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kaipasenrinne 10 E",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3592690-3",
+    "name": "Arctika Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tuiskunkatu 6 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3594133-7",
+    "name": "Outgrow Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hedelmäkatu 1 A",
+    "postCode": "33270"
+  },
+  {
+    "businessId": "3594337-5",
+    "name": "Netticode Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Näyttämönkatu 4 C",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3594827-2",
+    "name": "Staret Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Mesiheinänkatu 16",
+    "postCode": "33340"
+  },
+  {
+    "businessId": "3595021-7",
+    "name": "Curious Crew Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kosselikatu 2",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3597824-4",
+    "name": "Zym Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Koipitaipaleenkatu 10 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3598484-7",
+    "name": "OiviAI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kirjavaisenkatu 8",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3598848-5",
+    "name": "Commudus Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Piennarkatu 35 B",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3598856-5",
+    "name": "Gravionis Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ihaistenkatu 1a",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3599243-3",
+    "name": "Kiila AI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyhäjärvenkatu 5 K",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3601163-3",
+    "name": "Koodisali Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenpuisto 16 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3601516-7",
+    "name": "Yutori Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 14 C",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3602145-2",
+    "name": "Paideia Health Tech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyhäranta 4 A",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3602561-3",
+    "name": "Elixon Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vapaa-ajanmaa 5 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3602632-5",
+    "name": "Competiva Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Satakunnankatu 29 D",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3602890-2",
+    "name": "Aideon Group Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Isolammenkatu 13 D",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3603016-4",
+    "name": "Home Of Homes Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Heittoniitynkuja 7 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3603736-6",
+    "name": "Superpörssi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Punaladontie 4 G",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "3603770-2",
+    "name": "Lumenai Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Meesakatu 3 A",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3604527-8",
+    "name": "Unikie Marshalling Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Visiokatu 4",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3605375-3",
+    "name": "Vireworks Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kruutinkuja 2 A",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3606725-8",
+    "name": "Kuutio Ticket Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Järvensivuntie 17 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3606815-4",
+    "name": "Stackwise Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vapaa-ajanmaa 5",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3608170-3",
+    "name": "Stemppari Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Muotialankuja 5 L",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3608414-6",
+    "name": "Cold Sweat Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Salhojankatu 25 C",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3609251-7",
+    "name": "Sika Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuninkaankatu 5 A",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3609256-8",
+    "name": "ChipZen Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Siirtolapuutarhankatu 7 C",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3610238-3",
+    "name": "Iloware Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Luhtaankatu 5 A",
+    "postCode": "33560"
+  },
+  {
+    "businessId": "3611440-5",
+    "name": "Struklio Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Viinikankatu 1 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3611546-7",
+    "name": "Louhi Cognitive Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Itsenäisyydenkatu 3 A",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3613090-7",
+    "name": "HexaSoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Saarenvainionkatu 9 B",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3614595-7",
+    "name": "Hetki Healthcare Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Åkerlundinkatu 8",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3614955-2",
+    "name": "Sydentia Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 17 B",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3616996-7",
+    "name": "Luola.ai Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pyhäjärvenkatu 5 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3620693-2",
+    "name": "Cave Labs Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kohmankatu 10 C",
+    "postCode": "33310"
+  },
+  {
+    "businessId": "3620748-4",
+    "name": "frajo.fi Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lähteenkatu 7-9 F",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3621053-6",
+    "name": "Aurorbit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Papinkatu 14 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3623121-4",
+    "name": "Stateless Logic Global Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sotilaankuja 9 H",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3627055-5",
+    "name": "Oivana Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ruskontie 6 D",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3627574-3",
+    "name": "Sandyne Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sipilänkatu 12 A",
+    "postCode": "33820"
+  },
+  {
+    "businessId": "3627844-2",
+    "name": "LynxAndLynx Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Härmälänkatu 20 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3630048-6",
+    "name": "DocFlow Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vuolteenkatu 18 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3630626-3",
+    "name": "VeilForgeAI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hämeenkatu 31 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3630719-4",
+    "name": "KolmioSoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Haarlankatu 4 B",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3630776-8",
+    "name": "CouncilTech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tieteenkatu 18",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3632948-1",
+    "name": "Timevo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Puutarhakatu 16 C",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3633880-4",
+    "name": "Nopeet Liikkeet Software Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Iidesaukio 3",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3635822-3",
+    "name": "Core PMO Services Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Eerolansuorantie 88",
+    "postCode": "33680"
+  },
+  {
+    "businessId": "3636871-2",
+    "name": "Efferent Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 8 E",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3636922-1",
+    "name": "Pixelify Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Koelaitoksenkatu 8 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3637094-3",
+    "name": "Nosteco Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Hermiankatu 8 D",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3637279-7",
+    "name": "S3Chip Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Arkkitehdinkatu 20 A",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3637561-3",
+    "name": "Second Way Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Aleksanterinkatu 28 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3637593-9",
+    "name": "Gren Industries Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Niilo Härmälän katu 5 A",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3637620-2",
+    "name": "PolarPeer Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vellamonkatu 17 C",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3637837-1",
+    "name": "CerealMood Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vakosuonkatu 2",
+    "postCode": "33400"
+  },
+  {
+    "businessId": "3638511-7",
+    "name": "DualCore AI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kalkkikivikatu 1",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3638653-1",
+    "name": "Evergreen Quality Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kankurinkatu 11 as.",
+    "postCode": "33230"
+  },
+  {
+    "businessId": "3639713-4",
+    "name": "GTO Solutions Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rongankatu 14 D",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3639849-5",
+    "name": "Innovasystems Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Pilotinkatu 48",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3640055-9",
+    "name": "ThereWeGo Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Itsenäisyydenkatu 25 lh.",
+    "postCode": "33500"
+  },
+  {
+    "businessId": "3642408-3",
+    "name": "Drifly Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lepolantie 17",
+    "postCode": "33900"
+  },
+  {
+    "businessId": "3643934-9",
+    "name": "FiFiSoft Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Vuoreksen Puistokatu 92 A",
+    "postCode": "33870"
+  },
+  {
+    "businessId": "3645725-6",
+    "name": "Cleve Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tampellan Esplanadi 15 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3646803-5",
+    "name": "Aittaja Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lapinkaari 3 B",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3647084-8",
+    "name": "Lewe Tech Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Papinkatu 8 A",
+    "postCode": "33200"
+  },
+  {
+    "businessId": "3647268-3",
+    "name": "Token Driven Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Insinöörinkatu 55 B",
+    "postCode": "33720"
+  },
+  {
+    "businessId": "3650803-3",
+    "name": "Samalla Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuokkamaantie 33 B",
+    "postCode": "33800"
+  },
+  {
+    "businessId": "3652619-4",
+    "name": "UpDem Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Tuomiokirkonkatu 36 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3653087-1",
+    "name": "Aalto Guard Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Sammonkatu 20 D",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3653130-5",
+    "name": "VLR Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Finlaysoninkuja 21",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3653180-7",
+    "name": "OEE Technologies Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Kuninkaankatu 24 B",
+    "postCode": "33210"
+  },
+  {
+    "businessId": "3654527-2",
+    "name": "Esan Koodit Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Teiskontie 10 A",
+    "postCode": "33540"
+  },
+  {
+    "businessId": "3654583-8",
+    "name": "MotorAI Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rinkkakatu 2",
+    "postCode": "33580"
+  },
+  {
+    "businessId": "3654840-6",
+    "name": "Peltopilotti Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": null,
+    "postCode": "33581"
+  },
+  {
+    "businessId": "3655494-5",
+    "name": "Markus Juopperi Consulting Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Järvensivuntie 11 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3656549-2",
+    "name": "Pod labs Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Rauhaniementie 34 A",
+    "postCode": "33180"
+  },
+  {
+    "businessId": "3656952-2",
+    "name": "Better Things Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lannemäentie 22",
+    "postCode": "33420"
+  },
+  {
+    "businessId": "3657907-7",
+    "name": "Marram Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lapintie 9 B",
+    "postCode": "33100"
+  },
+  {
+    "businessId": "3658114-2",
+    "name": "Timesink Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Lukonmäenkatu 7 B",
+    "postCode": "33710"
+  },
+  {
+    "businessId": "3661465-3",
+    "name": "Noriai Oy",
+    "businessLine": "Ohjelmistojen suunnittelu ja valmistus",
+    "city": "TAMPERE",
+    "street": "Ilmarinkatu 46 A",
+    "postCode": "33500"
+  }
+]
