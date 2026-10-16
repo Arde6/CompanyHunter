@@ -6,26 +6,37 @@
     <title>CompanyHunter</title>
     <link rel="stylesheet" href="css/styles.css" />
     <script src="js/app.js" defer></script>
+    <script src="js/ai-panel.js" defer></script>
   </head>
   <body>
+    <div class="wrap h-card">
+    <header class="identity">
+      <h1 class="p-name">CompanyHunter</h1>
+      <span class="p-note"></span>
+    </header>
     <main>
-      <h1>CompanyHunter</h1>
-      <p>Welcome to CompanyHunter! Use the search form below to find companies based on location and main business line.</p>
-      <p>MainBusinessLine ID's can be found at <a href="https://stat.fi/fi/luokitukset/toimiala/" target="_blank">https://stat.fi/fi/luokitukset/toimiala/</a></p>
-      <p><strong>Note:</strong> Main Business Line IDs are required for searching. And if it results in 0 companies, you probably entered an invalid ID.</p>
-      <p><strong>Note:</strong> Data will be saved to <b>your</b> browser's <b>local</b> storage.</p>
-      <form id="search-form">
-        <label for="location">Location:</label>
-        <input type="text" id="location" name="location" placeholder="Enter location" />
-        <label for="mainBusinessLine">Main Business Line:</label>
-        <input type="text" id="mainBusinessLine" name="mainBusinessLine" placeholder="Enter main business line" />
-        <button type="submit" id="submit-btn">Fetch Companies</button> 
-        <button type="button" id="clear-btn">Delete Saved Companies</button>
-      </form>
+      <section class="about">
+        <p>Welcome to CompanyHunter! Use search form below to find companies based on location and main business line.</p>
+        <p>MainBusinessLine ID's can be found at <a href="https://stat.fi/fi/luokitukset/toimiala/" target="_blank">https://stat.fi/fi/luokitukset/toimiala/</a></p>
+        <p><strong>Note:</strong> Main Business Line IDs are required for searching. And if it results in 0 companies, you probably entered an invalid ID.</p>
+        <p><strong>Note:</strong> Data will be saved to <b>your</b> browser's <b>local</b> storage.</p>
+      </section>
 
       <p id="status"></p>
       <div id="results"></div>
     </main>
+
+    <aside>
+      <form id="search-form">
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" placeholder="Enter location" /><br>
+        <label for="mainBusinessLine">Main Business Line:</label>
+        <input type="text" id="mainBusinessLine" name="mainBusinessLine" placeholder="Enter main business line" /><br>
+        <button type="submit" id="submit-btn">Fetch Companies</button> 
+        <button type="button" id="clear-btn">Delete Saved Companies</button>
+      </form>
+      <section id="history-box" class="history-box"></section>
+    </aside>
 
     <footer>
       <section aria-labelledby="attribution-en">
@@ -78,5 +89,6 @@
         </p>
       </section>
     </footer>
+    </div>
   </body>
 </html>
