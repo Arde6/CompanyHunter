@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CompanyHunter</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="js/app.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <h1>CompanyHunter</h1>
+      <p>Welcome to CompanyHunter! Use the search form below to find companies based on location and main business line.</p>
+      <p>MainBusinessLine ID's can be found at <a href="https://stat.fi/fi/luokitukset/toimiala/" target="_blank">https://stat.fi/fi/luokitukset/toimiala/</a></p>
+      <p><strong>Note:</strong> Main Business Line IDs are required for searching. And if it results in 0 companies, you probably entered an invalid ID.</p>
+      <p><strong>Note:</strong> Data will be saved to <b>your</b> browser's <b>local</b> storage.</p>
+      <form id="search-form">
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" placeholder="Enter location" />
+        <label for="mainBusinessLine">Main Business Line:</label>
+        <input type="text" id="mainBusinessLine" name="mainBusinessLine" placeholder="Enter main business line" />
+        <button type="submit" id="submit-btn">Fetch Companies</button> 
+        <button type="button" id="clear-btn">Delete Saved Companies</button>
+      </form>
+
+      <p id="status"></p>
+      <div id="results"></div>
+    </main>
+
+    <footer>
+      <section aria-labelledby="attribution-en">
+        <h3 id="attribution-en">Data attribution and licensing</h3>
+        <p>
+          This project uses open data from the Finnish Business Information System (YTJ),
+          provided by the Finnish Patent and Registration Office (PRH) and the Finnish Tax Administration.
+        </p>
+        <ul>
+          <li>
+            Source:
+            <a href="https://avoindata.prh.fi/" target="_blank" rel="noopener noreferrer">
+              PRH / YTJ Open Data
+            </a>
+          </li>
+          <li>
+            License:
+            <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">
+              Creative Commons Attribution 4.0 International (CC BY 4.0)
+            </a>
+          </li>
+        </ul>
+        <p>
+          The source data has been trimmed and modified to make it lighter to process and easier to search.
+        </p>
+      </section>
+
+      <section lang="fi" aria-labelledby="attribution-fi">
+        <h3 id="attribution-fi">Lähdetiedot ja lisenssi</h3>
+        <p>
+          Tämä projekti käyttää Patentti- ja rekisterihallituksen (PRH) ja Verohallinnon
+          yhteisen Yritys- ja yhteisötietojärjestelmän (YTJ) avointa dataa.
+        </p>
+        <ul>
+          <li>
+            Lähde:
+            <a href="https://avoindata.prh.fi/" target="_blank" rel="noopener noreferrer">
+              PRH / YTJ -avoin data
+            </a>
+          </li>
+          <li>
+            Lisenssi:
+            <a href="https://creativecommons.org/licenses/by/4.0/deed.fi" target="_blank" rel="noopener noreferrer">
+              Creative Commons Nimeä 4.0 Kansainvälinen (CC BY 4.0)
+            </a>
+          </li>
+        </ul>
+        <p>
+          Lähdedataa on muokattu ja karsittu käsittelyn keventämiseksi ja haun helpottamiseksi.
+        </p>
+      </section>
+    </footer>
+  </body>
+</html>
